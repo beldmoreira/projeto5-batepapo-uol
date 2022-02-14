@@ -68,7 +68,7 @@ body{
     align-items:center;
     word-wrap: break-word;
 }
-input [type= text]{
+.input{
     height: 30px;
     width: 300px;
     border:none;
