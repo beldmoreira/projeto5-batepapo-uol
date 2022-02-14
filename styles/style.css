@@ -22,6 +22,12 @@ body{
 .border{
     height: 22px;
 }
+.time{
+    color:#AAAAAA;
+ }
+.name{
+    font-weight: bold;
+ }
 .available-space{
     height:485px;
     overflow-y:scroll;
